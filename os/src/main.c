@@ -5,16 +5,16 @@
 void vTaskFunction(void *pvParameters);
 void vPrintString( const char *pcString );
 
-static const char *pcTextForTask1 = "Yurim Son / Task 1 is running\r\n";
-static const char *pcTextForTask2 = "Yurim Son / Task 2 is running\r\n";
-static const char *pcTextForTask3 = "Yurim Son / Task 3 is running\r\n";
-static const char *pcTextForTask4 = "Yurim Son / Task 4 is running\r\n";
-static const char *pcTextForTask5 = "Yurim Son / Task 5 is running\r\n";
-static const char *pcTextForTask6 = "Yurim Son / Task 6 is running\r\n";
-static const char *pcTextForTask7 = "Yurim Son / Task 7 is running\r\n";
-static const char *pcTextForTask8 = "Yurim Son / Task 8 is running\r\n";
-static const char *pcTextForTask9 = "Yurim Son / Task 9 is running\r\n";
-static const char *pcTextForTask10 = "Yurim Son / Task 10 is running\r\n";
+static const char *pcTextForTask1 = "Task 1 is running\r\n";
+static const char *pcTextForTask2 = "Task 2 is running\r\n";
+static const char *pcTextForTask3 = "Task 3 is running\r\n";
+static const char *pcTextForTask4 = "Task 4 is running\r\n";
+static const char *pcTextForTask5 = "Task 5 is running\r\n";
+static const char *pcTextForTask6 = "Task 6 is running\r\n";
+static const char *pcTextForTask7 = "Task 7 is running\r\n";
+static const char *pcTextForTask8 = "Task 8 is running\r\n";
+static const char *pcTextForTask9 = "Task 9 is running\r\n";
+static const char *pcTextForTask10 = "Task 10 is running\r\n";
 
 int main(void)
 {
